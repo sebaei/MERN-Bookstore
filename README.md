@@ -1,1 +1,1 @@
-"# MERN-Bookstore" 
+Book Store project using MERN stack
